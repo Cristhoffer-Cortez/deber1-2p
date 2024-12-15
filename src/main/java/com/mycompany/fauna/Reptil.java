@@ -12,4 +12,5 @@ public class Reptil extends Animales {
         System.out.println(nombre+" se esta arrastrando con sus escamas de tipo "+escamas+".");
     }
     
+    
 }

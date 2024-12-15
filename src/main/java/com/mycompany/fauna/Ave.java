@@ -12,4 +12,5 @@ public class Ave extends Animales {
         System.out.println(nombre+" esta volando con una envergadura de "+alas+" metros.");
     }
     
+    
 }

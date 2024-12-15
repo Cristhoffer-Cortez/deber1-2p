@@ -11,5 +11,6 @@ public class Mamiferos extends Animales {
     public void Amamantar(){
         System.out.println(nombre+" con pelaje de tipo "+pelaje+" esta amamantando a sus crias.");
     } 
+ 
     
 }

@@ -65,7 +65,7 @@ public class Fauna {
                 System.out.println("Coloca el tipo de escamas del reptil.");
                 atributo3=scanner.nextLine();
                 Reptil reptil=new Reptil(nombre3,edad3,atributo3);
-                System.out.println("");
+                System.out.println(" ");
                 reptil.Comer();
                 reptil.Arrastrarse();
                 reptil.Dormir();
@@ -75,4 +75,5 @@ public class Fauna {
         }
                                                   
     }
+    
 }
